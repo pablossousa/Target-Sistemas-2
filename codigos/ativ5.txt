@@ -1,0 +1,12 @@
+1. Primeira ida até uma sala das lâmpadas:
+   - Eu ligaria o primeiro interruptor (Interruptor A) e o deixaria ligado por alguns minutos.
+   - Depois de alguns minutos, eu desligaria o Interruptor A.
+   - Em seguida, eu ligaria o segundo interruptor (Interruptor B) e iria até a sala das lâmpadas.
+
+2. Identificando as lâmpadas:
+   - Quando eu chegasse à sala das lâmpadas, tocaria nas lâmpadas.
+     - A lâmpada que estivesse acesa seria controlada pelo Interruptor B (que está ligado).
+     - A lâmpada que estivesse apagada, mas ainda quente, seria controlada pelo Interruptor A (que estava ligado e foi desligado).
+     - A lâmpada que estivesse apagada e fria seria controlada pelo Interruptor C (que nunca foi ligado).
+
+Assim, eu conseguiria identificar qual interruptor controla cada lâmpada com apenas uma ida à sala das lâmpadas.
